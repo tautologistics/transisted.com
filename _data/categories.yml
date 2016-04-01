@@ -1,8 +1,8 @@
-- slug: design
-  name: Design
+- slug: angular
+  name: AngularJS
 
-- slug: tools
-  name: Tools
+- slug: js
+  name: JS
 
-- slug: productivity
-  name: Productivity
+- slug: node
+  name: NodeJS
